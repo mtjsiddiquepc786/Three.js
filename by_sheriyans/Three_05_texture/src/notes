@@ -1,0 +1,16 @@
+MeshStandardMaterial aur MeshPhysicalMaterial mein roughnessMap ke jaise texture properties hoti hain:
+
+Property -	Kis cheez ko control karti hai
+
+map	--             --Surface ka color/texture
+roughnessMap--	   --Surface kitni rough ya smooth dikhe
+metalnessMap--	   --Surface kitni metallic dikhe
+normalMap--        --Chhoti surface details ka illusion
+aoMap--	           --Creases/corners mein soft shadowing
+bumpMap--	      --Bina geometry badle surface bumps ka illusion
+displacementMap	-- --Texture ke basis par actual geometry ko displace kare
+emissiveMap	--     --Surface ke glow/emission ka pattern
+alphaMap--	       --Surface ki transparency ka pattern
+
+
+bas muje batao kya karna hai tum kuch mat karo
